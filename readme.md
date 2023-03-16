@@ -1,4 +1,4 @@
-In this example, the chip name is fixed as "x1".  
+In this example, the chip name is fixed as "x1" and "pair".  
 We have generated datasets named "x1" and "pair".  
 
 ## Generate datasets:
