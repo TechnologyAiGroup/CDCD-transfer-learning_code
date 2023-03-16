@@ -1,0 +1,8 @@
+msl-245_resp_1.bmp 0.04878048780487805
+msl-245_resp_2.bmp 0.328
+msl-245_resp_3.bmp 0.640625
+msl-245_resp_4.bmp 0.8913043478260869
+msl-245_resp_5.bmp 0.9111111111111111
+msl-245_resp_6.bmp 1.0
+msl-245_resp_7.bmp 1.0
+msl-245_resp_all.bmp 1

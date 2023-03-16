@@ -1,0 +1,10 @@
+msl-122_resp_1.bmp 0
+msl-122_resp_2.bmp 0
+msl-122_resp_3.bmp 0
+msl-122_resp_4.bmp 0
+msl-122_resp_5.bmp 0
+msl-122_resp_6.bmp 0
+msl-122_resp_7.bmp 0
+msl-122_resp_8.bmp 0
+msl-122_resp_9.bmp 1
+msl-122_resp_all.bmp 1

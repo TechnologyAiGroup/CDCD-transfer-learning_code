@@ -1,0 +1,11 @@
+msl-20_resp_1.bmp 0.3068181818181818
+msl-20_resp_2.bmp 0.375
+msl-20_resp_3.bmp 0.375
+msl-20_resp_4.bmp 0.5217391304347826
+msl-20_resp_5.bmp 0.5217391304347826
+msl-20_resp_6.bmp 0.5217391304347826
+msl-20_resp_7.bmp 0.5217391304347826
+msl-20_resp_8.bmp 0.8571428571428571
+msl-20_resp_9.bmp 0.8571428571428571
+msl-20_resp_10.bmp 1.0
+msl-20_resp_all.bmp 1

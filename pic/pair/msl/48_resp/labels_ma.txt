@@ -1,0 +1,7 @@
+msl-48_resp_1.bmp 0.02666666666666667
+msl-48_resp_2.bmp 0.5172413793103449
+msl-48_resp_3.bmp 1.0
+msl-48_resp_4.bmp 1.0
+msl-48_resp_5.bmp 1.0
+msl-48_resp_6.bmp 1.0
+msl-48_resp_all.bmp 1

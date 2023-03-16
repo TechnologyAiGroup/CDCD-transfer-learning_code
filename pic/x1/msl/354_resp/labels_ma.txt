@@ -1,0 +1,4 @@
+msl-354_resp_1.bmp 0.02479757085020243
+msl-354_resp_2.bmp 0.4318181818181818
+msl-354_resp_3.bmp 1.0
+msl-354_resp_all.bmp 1

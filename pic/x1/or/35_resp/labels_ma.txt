@@ -1,0 +1,3 @@
+or-35_resp_1.bmp 0.6097560975609756
+or-35_resp_2.bmp 1.0
+or-35_resp_all.bmp 1

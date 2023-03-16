@@ -1,0 +1,12 @@
+and-24_resp_1.bmp 0
+and-24_resp_2.bmp 0
+and-24_resp_3.bmp 0
+and-24_resp_4.bmp 0
+and-24_resp_5.bmp 0
+and-24_resp_6.bmp 0
+and-24_resp_7.bmp 1
+and-24_resp_8.bmp 1
+and-24_resp_9.bmp 1
+and-24_resp_10.bmp 1
+and-24_resp_11.bmp 1
+and-24_resp_all.bmp 1

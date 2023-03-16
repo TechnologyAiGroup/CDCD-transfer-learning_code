@@ -1,0 +1,4 @@
+fe-255_resp_1.bmp 0.28823529411764703
+fe-255_resp_2.bmp 1.0
+fe-255_resp_3.bmp 1.0
+fe-255_resp_all.bmp 1

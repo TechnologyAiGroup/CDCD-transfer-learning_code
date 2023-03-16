@@ -1,0 +1,4 @@
+or-441_resp_1.bmp 0.21258503401360543
+or-441_resp_2.bmp 0.7368421052631579
+or-441_resp_3.bmp 1.0
+or-441_resp_all.bmp 1

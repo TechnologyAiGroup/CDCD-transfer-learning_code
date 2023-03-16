@@ -1,0 +1,8 @@
+ssl-132_resp_1.bmp 0.3089430894308943
+ssl-132_resp_2.bmp 0.6129032258064516
+ssl-132_resp_3.bmp 0.8636363636363636
+ssl-132_resp_4.bmp 0.8837209302325582
+ssl-132_resp_5.bmp 0.9743589743589743
+ssl-132_resp_6.bmp 1.0
+ssl-132_resp_7.bmp 1.0
+ssl-132_resp_all.bmp 1

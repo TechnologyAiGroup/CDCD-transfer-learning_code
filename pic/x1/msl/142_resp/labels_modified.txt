@@ -1,0 +1,3 @@
+msl-142_resp_1.bmp 0
+msl-142_resp_2.bmp 1
+msl-142_resp_all.bmp 1

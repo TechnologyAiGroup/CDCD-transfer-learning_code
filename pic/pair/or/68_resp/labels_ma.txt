@@ -1,0 +1,3 @@
+or-68_resp_1.bmp 0.7777777777777778
+or-68_resp_2.bmp 1.0
+or-68_resp_all.bmp 1

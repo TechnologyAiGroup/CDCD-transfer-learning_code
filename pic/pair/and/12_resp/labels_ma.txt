@@ -1,0 +1,9 @@
+and-12_resp_1.bmp 0.8571428571428571
+and-12_resp_2.bmp 0.8571428571428571
+and-12_resp_3.bmp 0.8571428571428571
+and-12_resp_4.bmp 0.8571428571428571
+and-12_resp_5.bmp 0.8571428571428571
+and-12_resp_6.bmp 1.0
+and-12_resp_7.bmp 1.0
+and-12_resp_8.bmp 1.0
+and-12_resp_all.bmp 1

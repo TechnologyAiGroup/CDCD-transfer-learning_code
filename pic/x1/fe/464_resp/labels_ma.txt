@@ -1,0 +1,4 @@
+fe-464_resp_1.bmp 0.4838709677419355
+fe-464_resp_2.bmp 1.0
+fe-464_resp_3.bmp 1.0
+fe-464_resp_all.bmp 1

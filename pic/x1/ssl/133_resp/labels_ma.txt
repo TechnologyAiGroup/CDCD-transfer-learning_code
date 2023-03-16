@@ -1,0 +1,9 @@
+ssl-133_resp_1.bmp 0.3008130081300813
+ssl-133_resp_2.bmp 0.5967741935483871
+ssl-133_resp_3.bmp 0.8409090909090909
+ssl-133_resp_4.bmp 0.8604651162790697
+ssl-133_resp_5.bmp 0.9487179487179487
+ssl-133_resp_6.bmp 1.0
+ssl-133_resp_7.bmp 1.0
+ssl-133_resp_8.bmp 1.0
+ssl-133_resp_all.bmp 1

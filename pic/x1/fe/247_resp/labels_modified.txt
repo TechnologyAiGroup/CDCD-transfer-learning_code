@@ -1,0 +1,3 @@
+fe-247_resp_1.bmp 0
+fe-247_resp_2.bmp 1
+fe-247_resp_all.bmp 1

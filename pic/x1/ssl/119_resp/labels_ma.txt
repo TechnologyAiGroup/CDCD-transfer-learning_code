@@ -1,0 +1,5 @@
+ssl-119_resp_1.bmp 0.15384615384615385
+ssl-119_resp_2.bmp 0.5714285714285714
+ssl-119_resp_3.bmp 1.0
+ssl-119_resp_4.bmp 1.0
+ssl-119_resp_all.bmp 1

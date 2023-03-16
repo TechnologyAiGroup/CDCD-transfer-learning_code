@@ -1,0 +1,6 @@
+dom-374_resp_1.bmp 0.08097165991902834
+dom-374_resp_2.bmp 0.9848484848484849
+dom-374_resp_3.bmp 1.0
+dom-374_resp_4.bmp 1.0
+dom-374_resp_5.bmp 1.0
+dom-374_resp_all.bmp 1

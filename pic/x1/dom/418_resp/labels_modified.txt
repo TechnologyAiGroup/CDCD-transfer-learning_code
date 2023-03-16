@@ -1,0 +1,3 @@
+dom-418_resp_1.bmp 0
+dom-418_resp_2.bmp 1
+dom-418_resp_all.bmp 1

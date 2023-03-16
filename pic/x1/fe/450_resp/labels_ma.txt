@@ -1,0 +1,3 @@
+fe-450_resp_1.bmp 0.025513819985825654
+fe-450_resp_2.bmp 1.0
+fe-450_resp_all.bmp 1

@@ -1,0 +1,4 @@
+or-366_resp_1.bmp 0.058823529411764705
+or-366_resp_2.bmp 0.8947368421052632
+or-366_resp_3.bmp 1.0
+or-366_resp_all.bmp 1

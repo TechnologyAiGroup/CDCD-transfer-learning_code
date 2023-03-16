@@ -1,0 +1,3 @@
+msl-222_resp_1.bmp 0.288
+msl-222_resp_2.bmp 1.0
+msl-222_resp_all.bmp 1

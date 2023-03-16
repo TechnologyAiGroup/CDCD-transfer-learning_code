@@ -1,0 +1,2 @@
+dom-118_resp_1.bmp 0.475
+dom-118_resp_all.bmp 1

@@ -1,0 +1,4 @@
+dom-163_resp_1.bmp 0.0
+dom-163_resp_2.bmp 0.0
+dom-163_resp_3.bmp 1.0
+dom-163_resp_all.bmp 1

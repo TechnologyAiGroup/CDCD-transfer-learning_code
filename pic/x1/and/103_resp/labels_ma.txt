@@ -1,0 +1,3 @@
+and-103_resp_1.bmp 0.5277777777777778
+and-103_resp_2.bmp 1.0
+and-103_resp_all.bmp 1

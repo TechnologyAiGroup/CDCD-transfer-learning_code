@@ -1,0 +1,7 @@
+and-477_resp_1.bmp 0.5277777777777778
+and-477_resp_2.bmp 1.0
+and-477_resp_3.bmp 1.0
+and-477_resp_4.bmp 1.0
+and-477_resp_5.bmp 1.0
+and-477_resp_6.bmp 1.0
+and-477_resp_all.bmp 1

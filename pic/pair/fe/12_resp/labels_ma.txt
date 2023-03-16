@@ -1,0 +1,5 @@
+fe-12_resp_1.bmp 1.0
+fe-12_resp_2.bmp 1.0
+fe-12_resp_3.bmp 1.0
+fe-12_resp_4.bmp 1.0
+fe-12_resp_all.bmp 1

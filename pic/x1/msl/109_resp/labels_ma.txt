@@ -1,0 +1,7 @@
+msl-109_resp_1.bmp 0.06477732793522267
+msl-109_resp_2.bmp 0.24060150375939848
+msl-109_resp_3.bmp 0.42105263157894735
+msl-109_resp_4.bmp 1.0
+msl-109_resp_5.bmp 1.0
+msl-109_resp_6.bmp 1.0
+msl-109_resp_all.bmp 1

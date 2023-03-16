@@ -1,0 +1,5 @@
+dom-233_resp_1.bmp 0
+dom-233_resp_2.bmp 1
+dom-233_resp_3.bmp 1
+dom-233_resp_4.bmp 1
+dom-233_resp_all.bmp 1

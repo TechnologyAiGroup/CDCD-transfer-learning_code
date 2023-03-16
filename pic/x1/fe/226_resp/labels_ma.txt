@@ -1,0 +1,4 @@
+fe-226_resp_1.bmp 0.013640238704177323
+fe-226_resp_2.bmp 1.0
+fe-226_resp_3.bmp 1.0
+fe-226_resp_all.bmp 1

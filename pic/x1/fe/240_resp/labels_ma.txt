@@ -1,0 +1,9 @@
+fe-240_resp_1.bmp 0.47368421052631576
+fe-240_resp_2.bmp 0.47368421052631576
+fe-240_resp_3.bmp 1.0
+fe-240_resp_4.bmp 1.0
+fe-240_resp_5.bmp 1.0
+fe-240_resp_6.bmp 1.0
+fe-240_resp_7.bmp 1.0
+fe-240_resp_8.bmp 1.0
+fe-240_resp_all.bmp 1

@@ -1,0 +1,6 @@
+dom-462_resp_1.bmp 0.30471014492753623
+dom-462_resp_2.bmp 0.971830985915493
+dom-462_resp_3.bmp 1.0
+dom-462_resp_4.bmp 1.0
+dom-462_resp_5.bmp 1.0
+dom-462_resp_all.bmp 1

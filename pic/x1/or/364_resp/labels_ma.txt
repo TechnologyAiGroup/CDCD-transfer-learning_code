@@ -1,0 +1,3 @@
+or-364_resp_1.bmp 0.029411764705882353
+or-364_resp_2.bmp 1.0
+or-364_resp_all.bmp 1

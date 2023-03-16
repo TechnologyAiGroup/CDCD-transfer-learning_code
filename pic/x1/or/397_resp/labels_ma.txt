@@ -1,0 +1,3 @@
+or-397_resp_1.bmp 0.11764705882352941
+or-397_resp_2.bmp 1.0
+or-397_resp_all.bmp 1

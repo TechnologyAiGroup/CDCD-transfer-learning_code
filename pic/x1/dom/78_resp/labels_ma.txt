@@ -1,0 +1,9 @@
+dom-78_resp_1.bmp 0.3089430894308943
+dom-78_resp_2.bmp 0.6129032258064516
+dom-78_resp_3.bmp 0.7307692307692307
+dom-78_resp_4.bmp 0.8636363636363636
+dom-78_resp_5.bmp 0.95
+dom-78_resp_6.bmp 0.95
+dom-78_resp_7.bmp 1.0
+dom-78_resp_8.bmp 1.0
+dom-78_resp_all.bmp 1

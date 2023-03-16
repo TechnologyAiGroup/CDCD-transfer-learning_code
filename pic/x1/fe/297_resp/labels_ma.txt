@@ -1,0 +1,3 @@
+fe-297_resp_1.bmp 0.01238390092879257
+fe-297_resp_2.bmp 1.0
+fe-297_resp_all.bmp 1

@@ -1,0 +1,3 @@
+msl-8_resp_1.bmp 0.7110215053763441
+msl-8_resp_2.bmp 1.0
+msl-8_resp_all.bmp 1

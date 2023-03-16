@@ -1,0 +1,12 @@
+msl-301_resp_1.bmp 0.01589319771137953
+msl-301_resp_2.bmp 0.10989010989010989
+msl-301_resp_3.bmp 0.3880597014925373
+msl-301_resp_4.bmp 0.3880597014925373
+msl-301_resp_5.bmp 0.6190476190476191
+msl-301_resp_6.bmp 0.6190476190476191
+msl-301_resp_7.bmp 0.6190476190476191
+msl-301_resp_8.bmp 1.0
+msl-301_resp_9.bmp 1.0
+msl-301_resp_10.bmp 1.0
+msl-301_resp_11.bmp 1.0
+msl-301_resp_all.bmp 1

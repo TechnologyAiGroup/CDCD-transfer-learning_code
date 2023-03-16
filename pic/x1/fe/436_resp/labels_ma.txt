@@ -1,0 +1,6 @@
+fe-436_resp_1.bmp 0.04067796610169491
+fe-436_resp_2.bmp 1.0
+fe-436_resp_3.bmp 1.0
+fe-436_resp_4.bmp 1.0
+fe-436_resp_5.bmp 1.0
+fe-436_resp_all.bmp 1

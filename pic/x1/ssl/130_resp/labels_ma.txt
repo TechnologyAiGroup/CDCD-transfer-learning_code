@@ -1,0 +1,6 @@
+ssl-130_resp_1.bmp 0.05
+ssl-130_resp_2.bmp 0.3333333333333333
+ssl-130_resp_3.bmp 0.3333333333333333
+ssl-130_resp_4.bmp 0.6666666666666666
+ssl-130_resp_5.bmp 1.0
+ssl-130_resp_all.bmp 1

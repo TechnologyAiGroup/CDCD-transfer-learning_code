@@ -1,0 +1,4 @@
+dom-11_resp_1.bmp 0.3333333333333333
+dom-11_resp_2.bmp 1.0
+dom-11_resp_3.bmp 1.0
+dom-11_resp_all.bmp 1

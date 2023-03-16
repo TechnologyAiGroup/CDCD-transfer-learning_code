@@ -1,0 +1,17 @@
+fe-102_resp_1.bmp 0.0761904761904762
+fe-102_resp_2.bmp 0.1
+fe-102_resp_3.bmp 0.25
+fe-102_resp_4.bmp 0.25
+fe-102_resp_5.bmp 0.25
+fe-102_resp_6.bmp 1.0
+fe-102_resp_7.bmp 1.0
+fe-102_resp_8.bmp 1.0
+fe-102_resp_9.bmp 1.0
+fe-102_resp_10.bmp 1.0
+fe-102_resp_11.bmp 1.0
+fe-102_resp_12.bmp 1.0
+fe-102_resp_13.bmp 1.0
+fe-102_resp_14.bmp 1.0
+fe-102_resp_15.bmp 1.0
+fe-102_resp_16.bmp 1.0
+fe-102_resp_all.bmp 1

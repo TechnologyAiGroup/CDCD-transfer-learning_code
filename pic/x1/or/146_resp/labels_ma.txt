@@ -1,0 +1,15 @@
+or-146_resp_1.bmp 0.09846153846153846
+or-146_resp_2.bmp 0.15609756097560976
+or-146_resp_3.bmp 0.4
+or-146_resp_4.bmp 0.4
+or-146_resp_5.bmp 0.4
+or-146_resp_6.bmp 0.4
+or-146_resp_7.bmp 0.22727272727272727
+or-146_resp_8.bmp 1.0
+or-146_resp_9.bmp 1.0
+or-146_resp_10.bmp 1.0
+or-146_resp_11.bmp 1.0
+or-146_resp_12.bmp 1.0
+or-146_resp_13.bmp 1.0
+or-146_resp_14.bmp 1.0
+or-146_resp_all.bmp 1

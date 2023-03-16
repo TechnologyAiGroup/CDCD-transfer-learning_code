@@ -1,0 +1,3 @@
+fe-6_resp_1.bmp 0.7906976744186046
+fe-6_resp_2.bmp 1.0
+fe-6_resp_all.bmp 1

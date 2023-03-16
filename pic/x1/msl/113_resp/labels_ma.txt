@@ -1,0 +1,17 @@
+msl-113_resp_1.bmp 0.045454545454545456
+msl-113_resp_2.bmp 0.2037037037037037
+msl-113_resp_3.bmp 0.2037037037037037
+msl-113_resp_4.bmp 0.2619047619047619
+msl-113_resp_5.bmp 0.2619047619047619
+msl-113_resp_6.bmp 0.2619047619047619
+msl-113_resp_7.bmp 0.34375
+msl-113_resp_8.bmp 0.34375
+msl-113_resp_9.bmp 1.0
+msl-113_resp_10.bmp 0.0
+msl-113_resp_11.bmp 0.0
+msl-113_resp_12.bmp 0.0
+msl-113_resp_13.bmp 0.0
+msl-113_resp_14.bmp 1.0
+msl-113_resp_15.bmp 1.0
+msl-113_resp_16.bmp 1.0
+msl-113_resp_all.bmp 1

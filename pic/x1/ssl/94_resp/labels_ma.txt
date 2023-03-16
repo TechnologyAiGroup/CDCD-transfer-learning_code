@@ -1,0 +1,10 @@
+ssl-94_resp_1.bmp 0.34615384615384615
+ssl-94_resp_2.bmp 0.72
+ssl-94_resp_3.bmp 0.8571428571428571
+ssl-94_resp_4.bmp 0.8571428571428571
+ssl-94_resp_5.bmp 0.8571428571428571
+ssl-94_resp_6.bmp 0.8571428571428571
+ssl-94_resp_7.bmp 0.8571428571428571
+ssl-94_resp_8.bmp 0.972972972972973
+ssl-94_resp_9.bmp 1.0
+ssl-94_resp_all.bmp 1

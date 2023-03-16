@@ -1,0 +1,12 @@
+dom-497_resp_1.bmp 0.15702479338842976
+dom-497_resp_2.bmp 0.7037037037037037
+dom-497_resp_3.bmp 0.7037037037037037
+dom-497_resp_4.bmp 0.7037037037037037
+dom-497_resp_5.bmp 1.0
+dom-497_resp_6.bmp 1.0
+dom-497_resp_7.bmp 1.0
+dom-497_resp_8.bmp 1.0
+dom-497_resp_9.bmp 1.0
+dom-497_resp_10.bmp 1.0
+dom-497_resp_11.bmp 1.0
+dom-497_resp_all.bmp 1

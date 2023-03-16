@@ -1,0 +1,4 @@
+and-368_resp_1.bmp 0.13636363636363635
+and-368_resp_2.bmp 0.13636363636363635
+and-368_resp_3.bmp 1.0
+and-368_resp_all.bmp 1

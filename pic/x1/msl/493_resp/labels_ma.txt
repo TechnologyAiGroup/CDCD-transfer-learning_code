@@ -1,0 +1,7 @@
+msl-493_resp_1.bmp 0.056451612903225805
+msl-493_resp_2.bmp 0.5
+msl-493_resp_3.bmp 0.5
+msl-493_resp_4.bmp 0.5
+msl-493_resp_5.bmp 1.0
+msl-493_resp_6.bmp 1.0
+msl-493_resp_all.bmp 1

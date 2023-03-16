@@ -1,0 +1,5 @@
+msl-186_resp_1.bmp 0.056818181818181816
+msl-186_resp_2.bmp 0.11363636363636363
+msl-186_resp_3.bmp 0.22727272727272727
+msl-186_resp_4.bmp 1.0
+msl-186_resp_all.bmp 1

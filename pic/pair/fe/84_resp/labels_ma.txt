@@ -1,0 +1,12 @@
+fe-84_resp_1.bmp 0.32142857142857145
+fe-84_resp_2.bmp 0.32142857142857145
+fe-84_resp_3.bmp 1.0
+fe-84_resp_4.bmp 1.0
+fe-84_resp_5.bmp 1.0
+fe-84_resp_6.bmp 1.0
+fe-84_resp_7.bmp 1.0
+fe-84_resp_8.bmp 1.0
+fe-84_resp_9.bmp 1.0
+fe-84_resp_10.bmp 1.0
+fe-84_resp_11.bmp 1.0
+fe-84_resp_all.bmp 1

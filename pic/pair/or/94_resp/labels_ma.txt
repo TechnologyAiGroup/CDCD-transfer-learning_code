@@ -1,0 +1,3 @@
+or-94_resp_1.bmp 0.8285714285714286
+or-94_resp_2.bmp 1.0
+or-94_resp_all.bmp 1

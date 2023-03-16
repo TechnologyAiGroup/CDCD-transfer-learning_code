@@ -1,0 +1,6 @@
+msl-498_resp_1.bmp 0.4032258064516129
+msl-498_resp_2.bmp 0.291497975708502
+msl-498_resp_3.bmp 0.6923076923076923
+msl-498_resp_4.bmp 1.0
+msl-498_resp_5.bmp 1.0
+msl-498_resp_all.bmp 1

@@ -1,0 +1,7 @@
+msl-121_resp_1.bmp 0.00816326530612245
+msl-121_resp_2.bmp 0.7967479674796748
+msl-121_resp_3.bmp 0.98989898989899
+msl-121_resp_4.bmp 1.0
+msl-121_resp_5.bmp 1.0
+msl-121_resp_6.bmp 1.0
+msl-121_resp_all.bmp 1

@@ -1,0 +1,6 @@
+or-174_resp_1.bmp 0.0761904761904762
+or-174_resp_2.bmp 0.16
+or-174_resp_3.bmp 0.2
+or-174_resp_4.bmp 0.2
+or-174_resp_5.bmp 1.0
+or-174_resp_all.bmp 1

@@ -1,0 +1,2 @@
+ssl-447_resp_1.bmp 0.43478260869565216
+ssl-447_resp_all.bmp 1

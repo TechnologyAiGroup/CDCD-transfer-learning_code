@@ -1,0 +1,3 @@
+and-493_resp_1.bmp 0.4722222222222222
+and-493_resp_2.bmp 1.0
+and-493_resp_all.bmp 1

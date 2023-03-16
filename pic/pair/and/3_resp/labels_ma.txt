@@ -1,0 +1,6 @@
+and-3_resp_1.bmp 0.5681818181818182
+and-3_resp_2.bmp 0.6956521739130435
+and-3_resp_3.bmp 0.9411764705882353
+and-3_resp_4.bmp 1.0
+and-3_resp_5.bmp 1.0
+and-3_resp_all.bmp 1

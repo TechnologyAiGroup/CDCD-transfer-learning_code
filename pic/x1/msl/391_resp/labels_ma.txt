@@ -1,0 +1,8 @@
+msl-391_resp_1.bmp 0.05955882352941176
+msl-391_resp_2.bmp 0.39705882352941174
+msl-391_resp_3.bmp 0.6071428571428571
+msl-391_resp_4.bmp 0.6538461538461539
+msl-391_resp_5.bmp 0.7083333333333334
+msl-391_resp_6.bmp 0.85
+msl-391_resp_7.bmp 1.0
+msl-391_resp_all.bmp 1

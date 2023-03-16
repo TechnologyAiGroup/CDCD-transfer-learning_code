@@ -1,0 +1,3 @@
+dom-322_resp_1.bmp 0.23645320197044334
+dom-322_resp_2.bmp 1.0
+dom-322_resp_all.bmp 1

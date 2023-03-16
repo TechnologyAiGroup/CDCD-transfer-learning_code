@@ -1,0 +1,7 @@
+and-8_resp_1.bmp 0.25252525252525254
+and-8_resp_2.bmp 0.45454545454545453
+and-8_resp_3.bmp 0.45454545454545453
+and-8_resp_4.bmp 0.45454545454545453
+and-8_resp_5.bmp 0.45454545454545453
+and-8_resp_6.bmp 1.0
+and-8_resp_all.bmp 1

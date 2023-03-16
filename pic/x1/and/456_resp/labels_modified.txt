@@ -1,0 +1,3 @@
+and-456_resp_1.bmp 0
+and-456_resp_2.bmp 1
+and-456_resp_all.bmp 1

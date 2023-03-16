@@ -1,0 +1,6 @@
+ssl-437_resp_1.bmp 0.8
+ssl-437_resp_2.bmp 1.0
+ssl-437_resp_3.bmp 1.0
+ssl-437_resp_4.bmp 1.0
+ssl-437_resp_5.bmp 1.0
+ssl-437_resp_all.bmp 1

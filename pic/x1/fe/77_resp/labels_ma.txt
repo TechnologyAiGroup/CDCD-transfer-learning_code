@@ -1,0 +1,9 @@
+fe-77_resp_1.bmp 0.000992063492063492
+fe-77_resp_2.bmp 0.9130434782608695
+fe-77_resp_3.bmp 1.0
+fe-77_resp_4.bmp 1.0
+fe-77_resp_5.bmp 1.0
+fe-77_resp_6.bmp 1.0
+fe-77_resp_7.bmp 1.0
+fe-77_resp_8.bmp 1.0
+fe-77_resp_all.bmp 1

@@ -1,0 +1,3 @@
+and-162_resp_1.bmp 0.4
+and-162_resp_2.bmp 1.0
+and-162_resp_all.bmp 1

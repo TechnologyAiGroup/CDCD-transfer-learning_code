@@ -1,0 +1,4 @@
+msl-324_resp_1.bmp 0.43952433109059613
+msl-324_resp_2.bmp 0.7333333333333333
+msl-324_resp_3.bmp 1.0
+msl-324_resp_all.bmp 1

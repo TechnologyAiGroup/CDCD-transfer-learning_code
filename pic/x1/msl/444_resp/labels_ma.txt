@@ -1,0 +1,4 @@
+msl-444_resp_1.bmp 0.45
+msl-444_resp_2.bmp 0.9
+msl-444_resp_3.bmp 1.0
+msl-444_resp_all.bmp 1

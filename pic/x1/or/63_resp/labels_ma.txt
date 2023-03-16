@@ -1,0 +1,4 @@
+or-63_resp_1.bmp 0.20930232558139536
+or-63_resp_2.bmp 0.3404255319148936
+or-63_resp_3.bmp 1.0
+or-63_resp_all.bmp 1

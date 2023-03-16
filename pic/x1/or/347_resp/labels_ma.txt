@@ -1,0 +1,4 @@
+or-347_resp_1.bmp 0.09154929577464789
+or-347_resp_2.bmp 0.30952380952380953
+or-347_resp_3.bmp 1.0
+or-347_resp_all.bmp 1

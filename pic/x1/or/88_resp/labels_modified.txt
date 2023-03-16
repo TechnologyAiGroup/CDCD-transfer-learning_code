@@ -1,0 +1,9 @@
+or-88_resp_1.bmp 0
+or-88_resp_2.bmp 0
+or-88_resp_3.bmp 1
+or-88_resp_4.bmp 1
+or-88_resp_5.bmp 1
+or-88_resp_6.bmp 1
+or-88_resp_7.bmp 1
+or-88_resp_8.bmp 1
+or-88_resp_all.bmp 1

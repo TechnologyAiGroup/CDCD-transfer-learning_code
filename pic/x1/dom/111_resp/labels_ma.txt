@@ -1,0 +1,3 @@
+dom-111_resp_1.bmp 1.0
+dom-111_resp_2.bmp 1.0
+dom-111_resp_all.bmp 1

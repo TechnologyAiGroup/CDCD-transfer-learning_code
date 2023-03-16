@@ -1,0 +1,8 @@
+ssl-72_resp_1.bmp 0.019230769230769232
+ssl-72_resp_2.bmp 0.04
+ssl-72_resp_3.bmp 0.16666666666666666
+ssl-72_resp_4.bmp 0.25
+ssl-72_resp_5.bmp 0.25
+ssl-72_resp_6.bmp 0.5
+ssl-72_resp_7.bmp 1.0
+ssl-72_resp_all.bmp 1

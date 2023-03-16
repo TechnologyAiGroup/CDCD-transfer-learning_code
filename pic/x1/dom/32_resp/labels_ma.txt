@@ -1,0 +1,7 @@
+dom-32_resp_1.bmp 0.005507745266781412
+dom-32_resp_2.bmp 0.015238095238095238
+dom-32_resp_3.bmp 0.01904761904761905
+dom-32_resp_4.bmp 1.0
+dom-32_resp_5.bmp 1.0
+dom-32_resp_6.bmp 1.0
+dom-32_resp_all.bmp 1

@@ -1,0 +1,8 @@
+fe-468_resp_1.bmp 0.5052631578947369
+fe-468_resp_2.bmp 0.676056338028169
+fe-468_resp_3.bmp 1.0
+fe-468_resp_4.bmp 1.0
+fe-468_resp_5.bmp 1.0
+fe-468_resp_6.bmp 1.0
+fe-468_resp_7.bmp 1.0
+fe-468_resp_all.bmp 1

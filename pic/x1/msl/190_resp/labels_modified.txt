@@ -1,0 +1,13 @@
+msl-190_resp_1.bmp 0
+msl-190_resp_2.bmp 0
+msl-190_resp_3.bmp 0
+msl-190_resp_4.bmp 0
+msl-190_resp_5.bmp 0
+msl-190_resp_6.bmp 0
+msl-190_resp_7.bmp 0
+msl-190_resp_8.bmp 0
+msl-190_resp_9.bmp 0
+msl-190_resp_10.bmp 0
+msl-190_resp_11.bmp 0
+msl-190_resp_12.bmp 1
+msl-190_resp_all.bmp 1

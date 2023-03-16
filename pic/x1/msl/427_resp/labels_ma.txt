@@ -1,0 +1,7 @@
+msl-427_resp_1.bmp 0.003205128205128205
+msl-427_resp_2.bmp 0.027777777777777776
+msl-427_resp_3.bmp 0.75
+msl-427_resp_4.bmp 0.75
+msl-427_resp_5.bmp 0.9
+msl-427_resp_6.bmp 1.0
+msl-427_resp_all.bmp 1

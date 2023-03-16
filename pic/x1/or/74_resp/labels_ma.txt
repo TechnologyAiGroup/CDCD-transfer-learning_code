@@ -1,0 +1,12 @@
+or-74_resp_1.bmp 0.14634146341463414
+or-74_resp_2.bmp 0.2903225806451613
+or-74_resp_3.bmp 1.0
+or-74_resp_4.bmp 1.0
+or-74_resp_5.bmp 1.0
+or-74_resp_6.bmp 1.0
+or-74_resp_7.bmp 1.0
+or-74_resp_8.bmp 1.0
+or-74_resp_9.bmp 1.0
+or-74_resp_10.bmp 1.0
+or-74_resp_11.bmp 1.0
+or-74_resp_all.bmp 1

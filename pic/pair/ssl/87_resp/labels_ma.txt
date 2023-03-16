@@ -1,0 +1,4 @@
+ssl-87_resp_1.bmp 0.631578947368421
+ssl-87_resp_2.bmp 0.9230769230769231
+ssl-87_resp_3.bmp 1.0
+ssl-87_resp_all.bmp 1

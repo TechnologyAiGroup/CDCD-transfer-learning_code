@@ -1,0 +1,6 @@
+dom-470_resp_1.bmp 0.05555555555555555
+dom-470_resp_2.bmp 1.0
+dom-470_resp_3.bmp 1.0
+dom-470_resp_4.bmp 1.0
+dom-470_resp_5.bmp 1.0
+dom-470_resp_all.bmp 1

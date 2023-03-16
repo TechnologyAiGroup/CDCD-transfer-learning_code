@@ -1,0 +1,2 @@
+ssl-188_resp_1.bmp 0.3902439024390244
+ssl-188_resp_all.bmp 1

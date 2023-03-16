@@ -1,0 +1,4 @@
+fe-222_resp_1.bmp 0.003827751196172249
+fe-222_resp_2.bmp 1.0
+fe-222_resp_3.bmp 1.0
+fe-222_resp_all.bmp 1

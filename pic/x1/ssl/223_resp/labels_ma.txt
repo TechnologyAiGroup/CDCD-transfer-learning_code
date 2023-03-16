@@ -1,0 +1,2 @@
+ssl-223_resp_1.bmp 0.6923076923076923
+ssl-223_resp_all.bmp 1

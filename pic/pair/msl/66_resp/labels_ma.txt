@@ -1,0 +1,3 @@
+msl-66_resp_1.bmp 0.4166666666666667
+msl-66_resp_2.bmp 1.0
+msl-66_resp_all.bmp 1

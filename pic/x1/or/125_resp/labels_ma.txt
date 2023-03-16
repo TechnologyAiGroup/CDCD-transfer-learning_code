@@ -1,0 +1,4 @@
+or-125_resp_1.bmp 0.047058823529411764
+or-125_resp_2.bmp 0.85
+or-125_resp_3.bmp 1.0
+or-125_resp_all.bmp 1

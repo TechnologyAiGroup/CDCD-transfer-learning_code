@@ -1,0 +1,2 @@
+dom-276_resp_1.bmp 0.5853658536585366
+dom-276_resp_all.bmp 1

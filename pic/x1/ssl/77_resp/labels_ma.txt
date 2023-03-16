@@ -1,0 +1,3 @@
+ssl-77_resp_1.bmp 0.11764705882352941
+ssl-77_resp_2.bmp 1.0
+ssl-77_resp_all.bmp 1

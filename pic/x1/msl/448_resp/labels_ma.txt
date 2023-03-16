@@ -1,0 +1,8 @@
+msl-448_resp_1.bmp 0.46364883401920437
+msl-448_resp_2.bmp 0.7222222222222222
+msl-448_resp_3.bmp 1.0
+msl-448_resp_4.bmp 1.0
+msl-448_resp_5.bmp 1.0
+msl-448_resp_6.bmp 1.0
+msl-448_resp_7.bmp 1.0
+msl-448_resp_all.bmp 1

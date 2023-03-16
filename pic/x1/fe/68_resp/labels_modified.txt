@@ -1,0 +1,5 @@
+fe-68_resp_1.bmp 1
+fe-68_resp_2.bmp 1
+fe-68_resp_3.bmp 1
+fe-68_resp_4.bmp 1
+fe-68_resp_all.bmp 1

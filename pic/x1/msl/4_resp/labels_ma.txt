@@ -1,0 +1,11 @@
+msl-4_resp_1.bmp 0.1265495867768595
+msl-4_resp_2.bmp 0.11560693641618497
+msl-4_resp_3.bmp 0.5194805194805194
+msl-4_resp_4.bmp 0.5970149253731343
+msl-4_resp_5.bmp 0.5970149253731343
+msl-4_resp_6.bmp 0.5970149253731343
+msl-4_resp_7.bmp 0.8888888888888888
+msl-4_resp_8.bmp 1.0
+msl-4_resp_9.bmp 1.0
+msl-4_resp_10.bmp 1.0
+msl-4_resp_all.bmp 1

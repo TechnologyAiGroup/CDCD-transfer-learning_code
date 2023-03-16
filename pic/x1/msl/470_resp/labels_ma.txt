@@ -1,0 +1,4 @@
+msl-470_resp_1.bmp 0.8499805674310144
+msl-470_resp_2.bmp 0.75
+msl-470_resp_3.bmp 1.0
+msl-470_resp_all.bmp 1

@@ -1,0 +1,8 @@
+or-194_resp_1.bmp 0.16666666666666666
+or-194_resp_2.bmp 0.16666666666666666
+or-194_resp_3.bmp 1.0
+or-194_resp_4.bmp 1.0
+or-194_resp_5.bmp 1.0
+or-194_resp_6.bmp 1.0
+or-194_resp_7.bmp 1.0
+or-194_resp_all.bmp 1

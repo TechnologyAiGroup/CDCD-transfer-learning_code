@@ -1,0 +1,5 @@
+msl-83_resp_1.bmp 0.8529411764705882
+msl-83_resp_2.bmp 0.8292682926829268
+msl-83_resp_3.bmp 1.0
+msl-83_resp_4.bmp 1.0
+msl-83_resp_all.bmp 1

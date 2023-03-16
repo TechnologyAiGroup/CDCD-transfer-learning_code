@@ -1,0 +1,4 @@
+or-324_resp_1.bmp 0
+or-324_resp_2.bmp 0
+or-324_resp_3.bmp 1
+or-324_resp_all.bmp 1

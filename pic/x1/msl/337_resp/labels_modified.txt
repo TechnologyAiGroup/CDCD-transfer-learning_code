@@ -1,0 +1,4 @@
+msl-337_resp_1.bmp 0
+msl-337_resp_2.bmp 1
+msl-337_resp_3.bmp 1
+msl-337_resp_all.bmp 1

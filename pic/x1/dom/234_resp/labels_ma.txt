@@ -1,0 +1,8 @@
+dom-234_resp_1.bmp 0.3333333333333333
+dom-234_resp_2.bmp 0.3333333333333333
+dom-234_resp_3.bmp 0.5
+dom-234_resp_4.bmp 1.0
+dom-234_resp_5.bmp 1.0
+dom-234_resp_6.bmp 1.0
+dom-234_resp_7.bmp 1.0
+dom-234_resp_all.bmp 1

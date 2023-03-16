@@ -1,0 +1,8 @@
+msl-111_resp_1.bmp 0.2911290322580645
+msl-111_resp_2.bmp 1.0
+msl-111_resp_3.bmp 1.0
+msl-111_resp_4.bmp 1.0
+msl-111_resp_5.bmp 1.0
+msl-111_resp_6.bmp 1.0
+msl-111_resp_7.bmp 1.0
+msl-111_resp_all.bmp 1

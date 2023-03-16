@@ -1,0 +1,7 @@
+dom-307_resp_1.bmp 0.03636363636363636
+dom-307_resp_2.bmp 0.06060606060606061
+dom-307_resp_3.bmp 0.09090909090909091
+dom-307_resp_4.bmp 0.09090909090909091
+dom-307_resp_5.bmp 1.0
+dom-307_resp_6.bmp 1.0
+dom-307_resp_all.bmp 1

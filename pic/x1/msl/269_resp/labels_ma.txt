@@ -1,0 +1,5 @@
+msl-269_resp_1.bmp 0.02711864406779661
+msl-269_resp_2.bmp 0.8082191780821918
+msl-269_resp_3.bmp 1.0
+msl-269_resp_4.bmp 1.0
+msl-269_resp_all.bmp 1

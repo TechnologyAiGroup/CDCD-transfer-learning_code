@@ -1,0 +1,3 @@
+msl-28_resp_1.bmp 0.021739130434782608
+msl-28_resp_2.bmp 1.0
+msl-28_resp_all.bmp 1

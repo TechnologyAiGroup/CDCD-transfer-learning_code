@@ -1,0 +1,13 @@
+msl-426_resp_1.bmp 0.03764705882352941
+msl-426_resp_2.bmp 0.23529411764705882
+msl-426_resp_3.bmp 0.23529411764705882
+msl-426_resp_4.bmp 1.0
+msl-426_resp_5.bmp 1.0
+msl-426_resp_6.bmp 1.0
+msl-426_resp_7.bmp 1.0
+msl-426_resp_8.bmp 1.0
+msl-426_resp_9.bmp 1.0
+msl-426_resp_10.bmp 1.0
+msl-426_resp_11.bmp 1.0
+msl-426_resp_12.bmp 1.0
+msl-426_resp_all.bmp 1

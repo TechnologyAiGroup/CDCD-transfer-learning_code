@@ -1,0 +1,3 @@
+and-244_resp_1.bmp 0
+and-244_resp_2.bmp 1
+and-244_resp_all.bmp 1

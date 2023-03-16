@@ -1,0 +1,6 @@
+msl-13_resp_1.bmp 0.11428571428571428
+msl-13_resp_2.bmp 0.8015267175572519
+msl-13_resp_3.bmp 1.0
+msl-13_resp_4.bmp 1.0
+msl-13_resp_5.bmp 1.0
+msl-13_resp_all.bmp 1

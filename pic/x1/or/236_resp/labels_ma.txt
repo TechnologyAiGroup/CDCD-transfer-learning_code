@@ -1,0 +1,3 @@
+or-236_resp_1.bmp 0.2926829268292683
+or-236_resp_2.bmp 1.0
+or-236_resp_all.bmp 1

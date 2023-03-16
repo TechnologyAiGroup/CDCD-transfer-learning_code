@@ -1,0 +1,6 @@
+fe-150_resp_1.bmp 0.010526315789473684
+fe-150_resp_2.bmp 1.0
+fe-150_resp_3.bmp 1.0
+fe-150_resp_4.bmp 1.0
+fe-150_resp_5.bmp 1.0
+fe-150_resp_all.bmp 1

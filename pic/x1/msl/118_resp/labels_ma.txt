@@ -1,0 +1,15 @@
+msl-118_resp_1.bmp 0.04878048780487805
+msl-118_resp_2.bmp 0.21428571428571427
+msl-118_resp_3.bmp 0.3
+msl-118_resp_4.bmp 0.3333333333333333
+msl-118_resp_5.bmp 0.0
+msl-118_resp_6.bmp 0.0
+msl-118_resp_7.bmp 0.0
+msl-118_resp_8.bmp 0.0
+msl-118_resp_9.bmp 0.0
+msl-118_resp_10.bmp 1.0
+msl-118_resp_11.bmp 1.0
+msl-118_resp_12.bmp 1.0
+msl-118_resp_13.bmp 1.0
+msl-118_resp_14.bmp 1.0
+msl-118_resp_all.bmp 1

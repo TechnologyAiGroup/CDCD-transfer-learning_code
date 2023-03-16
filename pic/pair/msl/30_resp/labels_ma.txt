@@ -1,0 +1,3 @@
+msl-30_resp_1.bmp 0.15705128205128205
+msl-30_resp_2.bmp 1.0
+msl-30_resp_all.bmp 1

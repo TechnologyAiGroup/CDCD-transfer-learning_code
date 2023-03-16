@@ -1,0 +1,13 @@
+or-19_resp_1.bmp 0.18461538461538463
+or-19_resp_2.bmp 0.2926829268292683
+or-19_resp_3.bmp 1.0
+or-19_resp_4.bmp 1.0
+or-19_resp_5.bmp 1.0
+or-19_resp_6.bmp 1.0
+or-19_resp_7.bmp 1.0
+or-19_resp_8.bmp 1.0
+or-19_resp_9.bmp 1.0
+or-19_resp_10.bmp 1.0
+or-19_resp_11.bmp 1.0
+or-19_resp_12.bmp 1.0
+or-19_resp_all.bmp 1

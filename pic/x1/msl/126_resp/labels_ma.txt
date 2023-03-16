@@ -1,0 +1,6 @@
+msl-126_resp_1.bmp 0.6471116816431323
+msl-126_resp_2.bmp 0.8658536585365854
+msl-126_resp_3.bmp 0.8658536585365854
+msl-126_resp_4.bmp 1.0
+msl-126_resp_5.bmp 1.0
+msl-126_resp_all.bmp 1

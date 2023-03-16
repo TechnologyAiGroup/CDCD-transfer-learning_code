@@ -1,0 +1,3 @@
+ssl-85_resp_1.bmp 0.5294117647058824
+ssl-85_resp_2.bmp 1.0
+ssl-85_resp_all.bmp 1

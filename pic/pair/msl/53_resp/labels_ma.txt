@@ -1,0 +1,9 @@
+msl-53_resp_1.bmp 0.21929824561403508
+msl-53_resp_2.bmp 0.23148148148148148
+msl-53_resp_3.bmp 0.3076923076923077
+msl-53_resp_4.bmp 0.3157894736842105
+msl-53_resp_5.bmp 0.3157894736842105
+msl-53_resp_6.bmp 1.0
+msl-53_resp_7.bmp 1.0
+msl-53_resp_8.bmp 1.0
+msl-53_resp_all.bmp 1

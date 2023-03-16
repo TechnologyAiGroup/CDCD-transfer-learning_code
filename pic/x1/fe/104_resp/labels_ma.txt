@@ -1,0 +1,8 @@
+fe-104_resp_1.bmp 0.04819277108433735
+fe-104_resp_2.bmp 0.3333333333333333
+fe-104_resp_3.bmp 0.4
+fe-104_resp_4.bmp 0.5
+fe-104_resp_5.bmp 0.5
+fe-104_resp_6.bmp 1.0
+fe-104_resp_7.bmp 1.0
+fe-104_resp_all.bmp 1

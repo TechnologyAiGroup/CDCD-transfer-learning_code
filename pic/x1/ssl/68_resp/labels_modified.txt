@@ -1,0 +1,4 @@
+ssl-68_resp_1.bmp 0
+ssl-68_resp_2.bmp 0
+ssl-68_resp_3.bmp 1
+ssl-68_resp_all.bmp 1

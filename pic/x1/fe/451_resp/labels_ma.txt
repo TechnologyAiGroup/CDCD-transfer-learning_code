@@ -1,0 +1,4 @@
+fe-451_resp_1.bmp 0.04326923076923077
+fe-451_resp_2.bmp 0.9285714285714286
+fe-451_resp_3.bmp 1.0
+fe-451_resp_all.bmp 1

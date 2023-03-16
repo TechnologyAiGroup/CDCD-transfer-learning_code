@@ -1,0 +1,3 @@
+ssl-304_resp_1.bmp 0.27906976744186046
+ssl-304_resp_2.bmp 1.0
+ssl-304_resp_all.bmp 1

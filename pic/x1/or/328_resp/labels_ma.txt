@@ -1,0 +1,3 @@
+or-328_resp_1.bmp 0.10638297872340426
+or-328_resp_2.bmp 1.0
+or-328_resp_all.bmp 1

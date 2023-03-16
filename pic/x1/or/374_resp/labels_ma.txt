@@ -1,0 +1,5 @@
+or-374_resp_1.bmp 0.5306122448979592
+or-374_resp_2.bmp 1.0
+or-374_resp_3.bmp 1.0
+or-374_resp_4.bmp 1.0
+or-374_resp_all.bmp 1

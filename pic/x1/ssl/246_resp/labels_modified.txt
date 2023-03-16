@@ -1,0 +1,3 @@
+ssl-246_resp_1.bmp 0
+ssl-246_resp_2.bmp 1
+ssl-246_resp_all.bmp 1

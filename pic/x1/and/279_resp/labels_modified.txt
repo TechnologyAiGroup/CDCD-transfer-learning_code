@@ -1,0 +1,4 @@
+and-279_resp_1.bmp 1
+and-279_resp_2.bmp 1
+and-279_resp_3.bmp 1
+and-279_resp_all.bmp 1

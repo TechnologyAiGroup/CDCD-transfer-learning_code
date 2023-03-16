@@ -1,0 +1,3 @@
+and-298_resp_1.bmp 0
+and-298_resp_2.bmp 1
+and-298_resp_all.bmp 1

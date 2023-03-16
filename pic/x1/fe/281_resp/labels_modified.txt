@@ -1,0 +1,4 @@
+fe-281_resp_1.bmp 0
+fe-281_resp_2.bmp 0
+fe-281_resp_3.bmp 1
+fe-281_resp_all.bmp 1

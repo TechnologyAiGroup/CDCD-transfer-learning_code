@@ -1,0 +1,4 @@
+msl-435_resp_1.bmp 0.13953488372093023
+msl-435_resp_2.bmp 0.5
+msl-435_resp_3.bmp 1.0
+msl-435_resp_all.bmp 1

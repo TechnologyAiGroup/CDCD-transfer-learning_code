@@ -1,0 +1,3 @@
+or-179_resp_1.bmp 0.18037518037518038
+or-179_resp_2.bmp 1.0
+or-179_resp_all.bmp 1

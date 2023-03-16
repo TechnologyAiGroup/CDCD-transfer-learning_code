@@ -1,0 +1,14 @@
+ssl-56_resp_1.bmp 0.6428571428571429
+ssl-56_resp_2.bmp 0.6923076923076923
+ssl-56_resp_3.bmp 0.6923076923076923
+ssl-56_resp_4.bmp 1.0
+ssl-56_resp_5.bmp 1.0
+ssl-56_resp_6.bmp 1.0
+ssl-56_resp_7.bmp 1.0
+ssl-56_resp_8.bmp 1.0
+ssl-56_resp_9.bmp 1.0
+ssl-56_resp_10.bmp 1.0
+ssl-56_resp_11.bmp 1.0
+ssl-56_resp_12.bmp 1.0
+ssl-56_resp_13.bmp 1.0
+ssl-56_resp_all.bmp 1

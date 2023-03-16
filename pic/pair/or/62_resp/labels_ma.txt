@@ -1,0 +1,14 @@
+or-62_resp_1.bmp 0.3968253968253968
+or-62_resp_2.bmp 0.4329004329004329
+or-62_resp_3.bmp 0.9545454545454546
+or-62_resp_4.bmp 1.0
+or-62_resp_5.bmp 1.0
+or-62_resp_6.bmp 1.0
+or-62_resp_7.bmp 1.0
+or-62_resp_8.bmp 1.0
+or-62_resp_9.bmp 1.0
+or-62_resp_10.bmp 1.0
+or-62_resp_11.bmp 1.0
+or-62_resp_12.bmp 1.0
+or-62_resp_13.bmp 1.0
+or-62_resp_all.bmp 1

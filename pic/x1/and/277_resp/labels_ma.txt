@@ -1,0 +1,3 @@
+and-277_resp_1.bmp 0.5405405405405406
+and-277_resp_2.bmp 1.0
+and-277_resp_all.bmp 1

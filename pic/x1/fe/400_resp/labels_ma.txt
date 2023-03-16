@@ -1,0 +1,4 @@
+fe-400_resp_1.bmp 0.2
+fe-400_resp_2.bmp 0.6666666666666666
+fe-400_resp_3.bmp 1.0
+fe-400_resp_all.bmp 1

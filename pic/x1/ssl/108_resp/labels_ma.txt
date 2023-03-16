@@ -1,0 +1,4 @@
+ssl-108_resp_1.bmp 0.13333333333333333
+ssl-108_resp_2.bmp 0.42857142857142855
+ssl-108_resp_3.bmp 1.0
+ssl-108_resp_all.bmp 1

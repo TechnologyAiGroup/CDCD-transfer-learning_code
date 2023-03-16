@@ -1,0 +1,5 @@
+ssl-31_resp_1.bmp 0.038461538461538464
+ssl-31_resp_2.bmp 0.16666666666666666
+ssl-31_resp_3.bmp 0.16666666666666666
+ssl-31_resp_4.bmp 1.0
+ssl-31_resp_all.bmp 1

@@ -1,0 +1,2 @@
+ssl-412_resp_1.bmp 0.15384615384615385
+ssl-412_resp_all.bmp 1

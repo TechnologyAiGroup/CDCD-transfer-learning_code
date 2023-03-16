@@ -1,0 +1,4 @@
+or-28_resp_1.bmp 0.532608695652174
+or-28_resp_2.bmp 0.92
+or-28_resp_3.bmp 1.0
+or-28_resp_all.bmp 1

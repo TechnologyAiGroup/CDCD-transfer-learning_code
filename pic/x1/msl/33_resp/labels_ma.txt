@@ -1,0 +1,7 @@
+msl-33_resp_1.bmp 0.12903225806451613
+msl-33_resp_2.bmp 0.0
+msl-33_resp_3.bmp 0.2222222222222222
+msl-33_resp_4.bmp 0.2222222222222222
+msl-33_resp_5.bmp 0.5
+msl-33_resp_6.bmp 1.0
+msl-33_resp_all.bmp 1

@@ -1,0 +1,6 @@
+or-26_resp_1.bmp 0.5818181818181818
+or-26_resp_2.bmp 0.7692307692307693
+or-26_resp_3.bmp 1.0
+or-26_resp_4.bmp 1.0
+or-26_resp_5.bmp 1.0
+or-26_resp_all.bmp 1

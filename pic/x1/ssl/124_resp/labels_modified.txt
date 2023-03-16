@@ -1,0 +1,10 @@
+ssl-124_resp_1.bmp 0
+ssl-124_resp_2.bmp 0
+ssl-124_resp_3.bmp 0
+ssl-124_resp_4.bmp 0
+ssl-124_resp_5.bmp 0
+ssl-124_resp_6.bmp 0
+ssl-124_resp_7.bmp 0
+ssl-124_resp_8.bmp 1
+ssl-124_resp_9.bmp 1
+ssl-124_resp_all.bmp 1

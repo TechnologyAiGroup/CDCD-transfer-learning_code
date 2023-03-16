@@ -1,0 +1,5 @@
+fe-331_resp_1.bmp 0.02197802197802198
+fe-331_resp_2.bmp 0.07692307692307693
+fe-331_resp_3.bmp 1.0
+fe-331_resp_4.bmp 1.0
+fe-331_resp_all.bmp 1

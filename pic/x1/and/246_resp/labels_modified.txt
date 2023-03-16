@@ -1,0 +1,14 @@
+and-246_resp_1.bmp 0
+and-246_resp_2.bmp 0
+and-246_resp_3.bmp 0
+and-246_resp_4.bmp 0
+and-246_resp_5.bmp 0
+and-246_resp_6.bmp 0
+and-246_resp_7.bmp 0
+and-246_resp_8.bmp 0
+and-246_resp_9.bmp 0
+and-246_resp_10.bmp 0
+and-246_resp_11.bmp 1
+and-246_resp_12.bmp 1
+and-246_resp_13.bmp 1
+and-246_resp_all.bmp 1

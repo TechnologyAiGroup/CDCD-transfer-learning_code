@@ -1,0 +1,4 @@
+ssl-140_resp_1.bmp 0.2
+ssl-140_resp_2.bmp 0.4
+ssl-140_resp_3.bmp 1.0
+ssl-140_resp_all.bmp 1

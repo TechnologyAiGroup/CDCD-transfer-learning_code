@@ -1,0 +1,6 @@
+msl-220_resp_1.bmp 0.8823529411764706
+msl-220_resp_2.bmp 0.8947368421052632
+msl-220_resp_3.bmp 0.918918918918919
+msl-220_resp_4.bmp 0.9444444444444444
+msl-220_resp_5.bmp 1.0
+msl-220_resp_all.bmp 1

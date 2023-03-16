@@ -1,0 +1,3 @@
+fe-139_resp_1.bmp 0.4
+fe-139_resp_2.bmp 1.0
+fe-139_resp_all.bmp 1

@@ -1,0 +1,3 @@
+dom-176_resp_1.bmp 0.1951219512195122
+dom-176_resp_2.bmp 1.0
+dom-176_resp_all.bmp 1

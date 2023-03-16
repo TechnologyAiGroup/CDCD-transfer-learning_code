@@ -1,0 +1,4 @@
+msl-466_resp_1.bmp 0.05537098560354374
+msl-466_resp_2.bmp 0.23809523809523808
+msl-466_resp_3.bmp 1.0
+msl-466_resp_all.bmp 1

@@ -1,0 +1,8 @@
+or-266_resp_1.bmp 0.08130081300813008
+or-266_resp_2.bmp 0.0
+or-266_resp_3.bmp 0.0
+or-266_resp_4.bmp 0.45454545454545453
+or-266_resp_5.bmp 0.8333333333333334
+or-266_resp_6.bmp 0.8333333333333334
+or-266_resp_7.bmp 1.0
+or-266_resp_all.bmp 1

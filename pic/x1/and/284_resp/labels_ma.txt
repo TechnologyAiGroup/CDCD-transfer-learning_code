@@ -1,0 +1,4 @@
+and-284_resp_1.bmp 0.7647058823529411
+and-284_resp_2.bmp 0.7647058823529411
+and-284_resp_3.bmp 1.0
+and-284_resp_all.bmp 1

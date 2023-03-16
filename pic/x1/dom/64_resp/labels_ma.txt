@@ -1,0 +1,6 @@
+dom-64_resp_1.bmp 0.06190476190476191
+dom-64_resp_2.bmp 0.5
+dom-64_resp_3.bmp 1.0
+dom-64_resp_4.bmp 1.0
+dom-64_resp_5.bmp 1.0
+dom-64_resp_all.bmp 1

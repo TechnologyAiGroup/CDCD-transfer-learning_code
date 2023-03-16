@@ -1,0 +1,15 @@
+or-37_resp_1.bmp 0
+or-37_resp_2.bmp 0
+or-37_resp_3.bmp 0
+or-37_resp_4.bmp 0
+or-37_resp_5.bmp 0
+or-37_resp_6.bmp 0
+or-37_resp_7.bmp 0
+or-37_resp_8.bmp 0
+or-37_resp_9.bmp 0
+or-37_resp_10.bmp 0
+or-37_resp_11.bmp 1
+or-37_resp_12.bmp 1
+or-37_resp_13.bmp 1
+or-37_resp_14.bmp 1
+or-37_resp_all.bmp 1

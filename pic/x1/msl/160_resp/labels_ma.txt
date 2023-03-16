@@ -1,0 +1,4 @@
+msl-160_resp_1.bmp 0.32727272727272727
+msl-160_resp_2.bmp 0.4489795918367347
+msl-160_resp_3.bmp 1.0
+msl-160_resp_all.bmp 1

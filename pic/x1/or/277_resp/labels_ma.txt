@@ -1,0 +1,4 @@
+or-277_resp_1.bmp 0.19230769230769232
+or-277_resp_2.bmp 0.7142857142857143
+or-277_resp_3.bmp 1.0
+or-277_resp_all.bmp 1

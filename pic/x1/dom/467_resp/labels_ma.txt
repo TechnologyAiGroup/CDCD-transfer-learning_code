@@ -1,0 +1,15 @@
+dom-467_resp_1.bmp 0.65
+dom-467_resp_2.bmp 0.8125
+dom-467_resp_3.bmp 0.9285714285714286
+dom-467_resp_4.bmp 1.0
+dom-467_resp_5.bmp 1.0
+dom-467_resp_6.bmp 1.0
+dom-467_resp_7.bmp 1.0
+dom-467_resp_8.bmp 1.0
+dom-467_resp_9.bmp 1.0
+dom-467_resp_10.bmp 1.0
+dom-467_resp_11.bmp 1.0
+dom-467_resp_12.bmp 1.0
+dom-467_resp_13.bmp 1.0
+dom-467_resp_14.bmp 1.0
+dom-467_resp_all.bmp 1

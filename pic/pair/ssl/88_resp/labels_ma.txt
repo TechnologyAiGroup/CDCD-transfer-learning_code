@@ -1,0 +1,7 @@
+ssl-88_resp_1.bmp 0.6666666666666666
+ssl-88_resp_2.bmp 0.6666666666666666
+ssl-88_resp_3.bmp 0.6666666666666666
+ssl-88_resp_4.bmp 0.6666666666666666
+ssl-88_resp_5.bmp 1.0
+ssl-88_resp_6.bmp 1.0
+ssl-88_resp_all.bmp 1

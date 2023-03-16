@@ -1,0 +1,5 @@
+dom-324_resp_1.bmp 0.0002658160552897395
+dom-324_resp_2.bmp 0.0008771929824561404
+dom-324_resp_3.bmp 0.9827586206896551
+dom-324_resp_4.bmp 1.0
+dom-324_resp_all.bmp 1

@@ -1,0 +1,10 @@
+or-348_resp_1.bmp 0.003968253968253968
+or-348_resp_2.bmp 0.0
+or-348_resp_3.bmp 0.0
+or-348_resp_4.bmp 0.0
+or-348_resp_5.bmp 0.3333333333333333
+or-348_resp_6.bmp 1.0
+or-348_resp_7.bmp 1.0
+or-348_resp_8.bmp 1.0
+or-348_resp_9.bmp 1.0
+or-348_resp_all.bmp 1

@@ -1,0 +1,6 @@
+ssl-70_resp_1.bmp 0.028846153846153848
+ssl-70_resp_2.bmp 0.25
+ssl-70_resp_3.bmp 0.25
+ssl-70_resp_4.bmp 0.5
+ssl-70_resp_5.bmp 1.0
+ssl-70_resp_all.bmp 1

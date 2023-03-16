@@ -1,0 +1,3 @@
+ssl-117_resp_1.bmp 0.3111111111111111
+ssl-117_resp_2.bmp 1.0
+ssl-117_resp_all.bmp 1

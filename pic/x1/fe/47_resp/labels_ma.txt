@@ -1,0 +1,7 @@
+fe-47_resp_1.bmp 0.000429000429000429
+fe-47_resp_2.bmp 0.0045045045045045045
+fe-47_resp_3.bmp 0.0045045045045045045
+fe-47_resp_4.bmp 1.0
+fe-47_resp_5.bmp 1.0
+fe-47_resp_6.bmp 1.0
+fe-47_resp_all.bmp 1

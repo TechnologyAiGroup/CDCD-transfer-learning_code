@@ -1,0 +1,6 @@
+or-427_resp_1.bmp 0.7268925739005047
+or-427_resp_2.bmp 0.9726027397260274
+or-427_resp_3.bmp 0.9726027397260274
+or-427_resp_4.bmp 1.0
+or-427_resp_5.bmp 1.0
+or-427_resp_all.bmp 1

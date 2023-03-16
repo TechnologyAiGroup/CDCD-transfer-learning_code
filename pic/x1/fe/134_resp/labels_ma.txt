@@ -1,0 +1,3 @@
+fe-134_resp_1.bmp 0.378698224852071
+fe-134_resp_2.bmp 1.0
+fe-134_resp_all.bmp 1

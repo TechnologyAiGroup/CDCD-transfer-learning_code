@@ -1,0 +1,12 @@
+or-360_resp_1.bmp 0.16
+or-360_resp_2.bmp 1.0
+or-360_resp_3.bmp 1.0
+or-360_resp_4.bmp 1.0
+or-360_resp_5.bmp 1.0
+or-360_resp_6.bmp 1.0
+or-360_resp_7.bmp 1.0
+or-360_resp_8.bmp 1.0
+or-360_resp_9.bmp 1.0
+or-360_resp_10.bmp 1.0
+or-360_resp_11.bmp 1.0
+or-360_resp_all.bmp 1

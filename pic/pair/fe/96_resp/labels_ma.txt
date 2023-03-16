@@ -1,0 +1,17 @@
+fe-96_resp_1.bmp 0.4090909090909091
+fe-96_resp_2.bmp 0.4090909090909091
+fe-96_resp_3.bmp 1.0
+fe-96_resp_4.bmp 1.0
+fe-96_resp_5.bmp 1.0
+fe-96_resp_6.bmp 1.0
+fe-96_resp_7.bmp 1.0
+fe-96_resp_8.bmp 1.0
+fe-96_resp_9.bmp 1.0
+fe-96_resp_10.bmp 1.0
+fe-96_resp_11.bmp 1.0
+fe-96_resp_12.bmp 1.0
+fe-96_resp_13.bmp 1.0
+fe-96_resp_14.bmp 1.0
+fe-96_resp_15.bmp 1.0
+fe-96_resp_16.bmp 1.0
+fe-96_resp_all.bmp 1

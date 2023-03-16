@@ -1,0 +1,14 @@
+msl-65_resp_1.bmp 0.19047619047619047
+msl-65_resp_2.bmp 0.16374269005847952
+msl-65_resp_3.bmp 0.4375
+msl-65_resp_4.bmp 0.4375
+msl-65_resp_5.bmp 0.7
+msl-65_resp_6.bmp 0.875
+msl-65_resp_7.bmp 0.875
+msl-65_resp_8.bmp 1.0
+msl-65_resp_9.bmp 1.0
+msl-65_resp_10.bmp 1.0
+msl-65_resp_11.bmp 1.0
+msl-65_resp_12.bmp 1.0
+msl-65_resp_13.bmp 1.0
+msl-65_resp_all.bmp 1

@@ -1,0 +1,3 @@
+fe-98_resp_1.bmp 1.0
+fe-98_resp_2.bmp 1.0
+fe-98_resp_all.bmp 1

@@ -1,0 +1,4 @@
+msl-267_resp_1.bmp 0.5135135135135135
+msl-267_resp_2.bmp 0.578125
+msl-267_resp_3.bmp 1.0
+msl-267_resp_all.bmp 1

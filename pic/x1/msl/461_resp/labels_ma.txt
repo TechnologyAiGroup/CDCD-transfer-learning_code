@@ -1,0 +1,5 @@
+msl-461_resp_1.bmp 0.10975609756097561
+msl-461_resp_2.bmp 0.21951219512195122
+msl-461_resp_3.bmp 0.8367346938775511
+msl-461_resp_4.bmp 1.0
+msl-461_resp_all.bmp 1

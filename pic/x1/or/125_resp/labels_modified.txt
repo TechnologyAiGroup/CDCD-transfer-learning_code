@@ -1,0 +1,4 @@
+or-125_resp_1.bmp 0
+or-125_resp_2.bmp 0
+or-125_resp_3.bmp 1
+or-125_resp_all.bmp 1

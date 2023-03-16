@@ -1,0 +1,3 @@
+and-118_resp_1.bmp 0.2911290322580645
+and-118_resp_2.bmp 1.0
+and-118_resp_all.bmp 1

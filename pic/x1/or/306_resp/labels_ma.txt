@@ -1,0 +1,4 @@
+or-306_resp_1.bmp 0.26666666666666666
+or-306_resp_2.bmp 0.5
+or-306_resp_3.bmp 1.0
+or-306_resp_all.bmp 1

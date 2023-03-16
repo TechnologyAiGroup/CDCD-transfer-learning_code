@@ -1,0 +1,3 @@
+fe-460_resp_1.bmp 0
+fe-460_resp_2.bmp 1
+fe-460_resp_all.bmp 1

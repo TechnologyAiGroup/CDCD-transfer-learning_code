@@ -1,0 +1,2 @@
+dom-29_resp_1.bmp 0.5882352941176471
+dom-29_resp_all.bmp 1

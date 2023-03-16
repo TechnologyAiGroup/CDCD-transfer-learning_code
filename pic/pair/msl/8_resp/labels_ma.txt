@@ -1,0 +1,14 @@
+msl-8_resp_1.bmp 0.6568181818181819
+msl-8_resp_2.bmp 0.7727272727272727
+msl-8_resp_3.bmp 0.7727272727272727
+msl-8_resp_4.bmp 0.7727272727272727
+msl-8_resp_5.bmp 0.7727272727272727
+msl-8_resp_6.bmp 0.7727272727272727
+msl-8_resp_7.bmp 0.7727272727272727
+msl-8_resp_8.bmp 0.8148148148148148
+msl-8_resp_9.bmp 1.0
+msl-8_resp_10.bmp 1.0
+msl-8_resp_11.bmp 1.0
+msl-8_resp_12.bmp 1.0
+msl-8_resp_13.bmp 1.0
+msl-8_resp_all.bmp 1

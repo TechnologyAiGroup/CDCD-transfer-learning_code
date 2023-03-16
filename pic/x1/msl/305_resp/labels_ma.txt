@@ -1,0 +1,10 @@
+msl-305_resp_1.bmp 0.06009615384615385
+msl-305_resp_2.bmp 0.2604166666666667
+msl-305_resp_3.bmp 0.2604166666666667
+msl-305_resp_4.bmp 0.3125
+msl-305_resp_5.bmp 0.3125
+msl-305_resp_6.bmp 0.3125
+msl-305_resp_7.bmp 0.625
+msl-305_resp_8.bmp 0.8888888888888888
+msl-305_resp_9.bmp 1.0
+msl-305_resp_all.bmp 1

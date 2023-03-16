@@ -1,0 +1,5 @@
+or-465_resp_1.bmp 0.7456310679611651
+or-465_resp_2.bmp 0.9320388349514563
+or-465_resp_3.bmp 1.0
+or-465_resp_4.bmp 1.0
+or-465_resp_all.bmp 1
