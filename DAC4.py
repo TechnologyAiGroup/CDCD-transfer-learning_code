@@ -19,7 +19,7 @@ def extract_feature(dataset):
         chipfaultinfo = resp.split("/")[1:4]
         # print(chipfaultinfo)
         assert len(chipfaultinfo)==3
-        root = os.path.join("../", chipfaultinfo[0], chipfaultinfo[1], "tmax_fail", chipfaultinfo[2].split("_")[0]+"_fail")
+        root = os.path.join("../", chipfaultinfo[0], chipfaultinfo[1], "????_fail", chipfaultinfo[2].split("_")[0]+"_fail")
         fail_data = "all.fail"
         fail_data_path = os.path.join(root, fail_data)
         x_dataframe = pd.read_csv(fail_data_path, sep=' ', header=None)
@@ -75,11 +75,25 @@ def calacc(model, testset):
             # print(testset[p])
             continue
         totalchip += 1
-        xy = extract_feature([testset[p]])
-        xy.columns = ['x1', 'x2', 'x3', 'x4', 'x5', 'x6', 'x7', 'y']
+        _, c, f, id = testset[p].split("/")
+        # print(c, f, id)
+        # exit()
+        data_path = os.path.join("data/", c, f)
+        if os.path.exists(f"{data_path}/{c}_test_{id[:-1]}.csv"):
+            xy = pd.read_csv(f"{data_path}/{c}_test_{id[:-1]}.csv", sep=',', low_memory=False)
+            # print("read csv in ")
+        else: 
+            # print("extracting...")
+            xy = extract_feature([testset[p]])
+            xy.columns = ['x1', 'x2', 'x3', 'x4', 'x5', 'x6', 'x7', 'y']
+            # 存source trainset的特征和标签
+            if not os.path.exists(data_path):
+                os.makedirs(data_path)
+            xy.to_csv(f"{data_path}/{c}_test_{id[:-1]}.csv", index=False)
 
-        x = xy.iloc[:, 0:-1]
-        y = xy.iloc[:, -1]
+        x = xy.iloc[:, 0:-1].astype('int64')
+        y = xy.iloc[:, -1].astype('int64')
+
         pred = model.predict(x)
         assert len(y)==len(pred)
         isStop = False
@@ -137,8 +151,8 @@ def calDVR(testset, id_resp):
         chipfaultinfo = testset[i].split("/")[1:4]
         if id_resp[i]==-1:
             continue
-        failpath = os.path.join("../", chipfaultinfo[0], chipfaultinfo[1], "tmax_fail", chipfaultinfo[2].split("_")[0]+"_fail", f"{id_resp[i]}.fail")
-        allfailpath = os.path.join("../", chipfaultinfo[0], chipfaultinfo[1], "tmax_fail", chipfaultinfo[2].split("_")[0]+"_fail", "all.fail")
+        failpath = os.path.join("../", chipfaultinfo[0], chipfaultinfo[1], "????_fail", chipfaultinfo[2].split("_")[0]+"_fail", f"{id_resp[i]}.fail")
+        allfailpath = os.path.join("../", chipfaultinfo[0], chipfaultinfo[1], "????_fail", chipfaultinfo[2].split("_")[0]+"_fail", "all.fail")
         fenzi = len(open(failpath, "r").readlines())
         fenmu = len(open(allfailpath, "r").readlines())
         assert fenzi<=fenmu
@@ -150,34 +164,38 @@ def calDVR(testset, id_resp):
 def run(source, target):
     source_circuit = source
     target_circuit = target
-    fault_types = ["ssl", "msl", "dom", "fe", "and", "or"]
+    
     print("************************************")
     print(source_circuit, "-->", target_circuit)
     col_names = ['x1', 'x2', 'x3', 'x4', 'x5', 'x6', 'x7', 'y']
     # source
-    # trainset_s, testset_s = splitDataset(source_circuit, fault_types)
+    
     with open(f"./dataset/{source_circuit}_train_list.txt", "r") as f:
         trainset_s = f.readlines()
     f.close()
-    with open(f"./dataset/{source_circuit}_test_list.txt", "r") as f:
-        testset_s = f.readlines()
-    f.close()
+    # with open(f"./dataset/{source_circuit}_test_list.txt", "r") as f:
+    #     testset_s = f.readlines()
+    # f.close()
     # trainset_s = ["pic/ctrl/fe/2_resp\n"]
-    x_y_train = extract_feature(trainset_s)
+    
+    data_path = os.path.join("data/", source_circuit)
+    if os.path.exists(f"{data_path}/{source_circuit}_train.csv"):
+        x_y_train = pd.read_csv(f"{data_path}/{source_circuit}_train.csv", sep=',', header=None, low_memory=False)
+        # print("read features in")
+    else:
+        # print("extracting...")
+        x_y_train = extract_feature(trainset_s)
+        x_y_train.columns = col_names
+        # 存source trainset的特征和标签
+        if not os.path.exists(data_path):
+            os.makedirs(data_path)
+        x_y_train.to_csv(f'{data_path}/{source_circuit}_train.csv', index=False)
+
     # print(x_y_train)
-    x_y_train.columns = col_names
-
-    x_train_s = x_y_train.iloc[:, 0:-1]
-    y_train_s = x_y_train.iloc[:, -1]
-
-    # 存source trainset的特征和标签
-    # data_path = os.path.join("data/", target_circuit)
-    # if not os.path.exists(data_path):
-    #     os.makedirs(data_path)
-    # x_y_train.to_csv(f'{data_path}/{target_circuit}_train.csv', index=False)
-
+    x_train_s = x_y_train.iloc[1:, 0:-1].astype('int64')
+    y_train_s = x_y_train.iloc[1:, -1].astype('int64')
+    
     # target
-    # _, testset_t = splitDataset(target_circuit, fault_types)
     with open(f"./dataset/{target_circuit}_test_list.txt", "r") as f:
         testset_t = f.readlines()
     f.close()
@@ -185,43 +203,14 @@ def run(source, target):
     # Train
     dt_clf = tree.DecisionTreeClassifier(min_samples_leaf=3, random_state=10)
     dt_clf.fit(x_train_s, y_train_s)
-
-    # debug
-    # x_y1 = extract_feature(trainset_s)
-    # x_y1.columns = col_names
-
-    # x_test_s = x_y1.iloc[:, 0:-1]
-    # y_test_s = x_y1.iloc[:, -1]
-    # dt_predicted_s= dt_clf.predict(x_test_s)
-    # print("DT tree acc : ", accuracy_score(y_test_s, dt_predicted_s))
-    
-    # Test
-    # r = calacc(model=dt_clf, testset=testset_s)
-    # print("---------------source---------------")
-    # acc_s, id_resp_s = calacc(model=dt_clf, testset=testset_s)
-    # dvr_s = calDVR(testset_s, id_resp_s)
-    # print(f"DT tree acc: {acc_s}".ljust(50), f"DVR : {dvr_s*100}%".ljust(30), f"len of {source_circuit} : {len(testset_s)}")
-    # met_dict = cal_metrics(y_test_s, dt_predicted_s, labels=[0, 1])
-    # print(met_dict)
-    # print("---------------target---------------")
+  
     acc_t, id_resp_t = calacc(model=dt_clf, testset=testset_t)
     dvr_t = calDVR(testset_t, id_resp_t)
     print(f"DT tree acc: {acc_t}".ljust(50), f"DVR : {dvr_t*100}%".ljust(30), f"len of {target_circuit} : {len(testset_t)}")
-    # met_dict_t = cal_metrics(y_test_t, dt_predicted_t, labels=[0, 1])
-    # print(met_dict_t)
-    # print("************************************")
     print("\n")
 
 
 if __name__ == '__main__':
-    # chiplist = ["x1", "pair", "frg2", "i10", "des"]
-    # chiplist = ["int2float", "dec", "priority", "sin", "ctrl", "cavlc", "i2c", "adder", "bar"]
-    # chiplist = ["pair", "x1", "i10"]
-    # for i in chiplist:
-    #     for j in chiplist:
-    #         if i==j:
-    #             continue
-    #         run(source=i, target=j)
     parser = argparse.ArgumentParser(description="decision tree")
     parser.add_argument("-s", type=str, default="ctrl", help="source domain")
     parser.add_argument("-t", type=str, default="ctrl", help="target domain")
