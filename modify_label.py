@@ -29,8 +29,6 @@ def increaseandthreshold(xys, threshold):
 root = "./pic"
 labelfile = "labels_ma.txt"
 
-# chips = os.listdir(root)
-# chips = ["int2float", "dec", "priority", "adder"]
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="modify labels")
     parser.add_argument("-c", type=str, default=["ctrl"], nargs="+", help="circuits/chips")
@@ -38,9 +36,6 @@ if __name__ == "__main__":
     parser.add_argument("-t", type=float, default=0.899999, help="ma threshold")
     args = parser.parse_args()
     print(args)
-    # chips = ["b12", "b14", "b15"]
-    # faults = ["ssl", "msl", "and", "or", "fe", "dom"]
-    # threshold = 0.899999
     chips = args.c
     faults = args.type
     threshold = args.t

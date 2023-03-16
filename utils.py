@@ -80,7 +80,6 @@ def calacc(resize, metrictype, flag, source_dataset_name, target_dataset_name):
             f.close()
             dataset = GetLoader(
                 data_root=testset_root+"_test",
-                # data_list=testset_image_root.split("_")[0]+f"_{metrictype}_test.txt",
                 data_list=f"{temproot}/temp_s_{source_dataset_name}-{target_dataset_name}.txt",
                 transform=img_transform_source
             )
@@ -92,7 +91,6 @@ def calacc(resize, metrictype, flag, source_dataset_name, target_dataset_name):
             f.close()
             dataset = GetLoader(
                 data_root=testset_root+"_test",
-                # data_list=testset_image_root.split("_")[0]+f"_{metrictype}_test.txt",
                 data_list=f"{temproot}/temp_t_{source_dataset_name}-{target_dataset_name}.txt",
                 transform=img_transform_target
             )
@@ -124,20 +122,6 @@ def calacc(resize, metrictype, flag, source_dataset_name, target_dataset_name):
         if pred.sum()==0:
             correct+=1
             continue
-        # for i in range(len(pred)):
-        #     if pred[i]==0:
-        #         continue
-        #     elif pred[i]==1:
-        #         id_resp[p] = i
-        #         if t_label[i]==1:
-        #             correct += 1
-        #             break
-        #         else:
-        #             incorrect += 1
-        #             break
-        #     else:
-        #         raise Exception
-        #         exit()
         
         for i in range(guard-1, len(pred)):
             if pred[i]==0:
@@ -182,8 +166,6 @@ def calDVR(testset_root, id_resp):
         respinfo = respinfo[:-1]    # 因为存入文件时多存入了一个换行符
         if id_resp[i]==-1:
             continue
-        # failpath = os.path.join("./pic/", chip, fault, respinfo, f"{fault}-{respinfo}_{id_resp[i]+1}.bmp")
-        # allfailpath = os.path.join("./pic/", chip, fault, respinfo, f"{fault}-{respinfo}_all.bmp")
         failpath = os.path.join("./dataset/", f"{chip}_test", f"{fault}-{respinfo}_{id_resp[i]+1}.bmp")
         allfailpath = os.path.join("./dataset/", f"{chip}_test", f"{fault}-{respinfo}_all.bmp")
         if not os.path.exists(failpath):
@@ -192,11 +174,7 @@ def calDVR(testset_root, id_resp):
         if os.path.exists(allfailpath):
             imgall = np.asarray(Image.open(allfailpath))
         else:
-            # back = os.listdir(os.path.join("./pic/", chip, fault, respinfo))
-            # imgall = np.asarray(Image.open(os.path.join("./pic/", chip, fault, respinfo, f"{fault}-{respinfo}_{len(back)-1}.bmp")))
             back = [j for j in os.listdir(os.path.join("./dataset/", f"{chip}_test")) if j.startswith(f"{fault}-{respinfo}")]
-            # back.sort()
-            # print(back)
             imgall = np.asarray(Image.open(os.path.join("./dataset/", f"{chip}_test", f"{fault}-{respinfo}_{len(back)}.bmp")))
 
         fenzi = np.sum([imgi==255])
@@ -205,7 +183,3 @@ def calDVR(testset_root, id_resp):
         dvr = dvr + (1-(fenzi/fenmu))
 
     return dvr/len(testset)
-
-# r, id_resp = calacc("./dataset1/ctrl_test", (28,28),"b")
-# s = calDVR("./dataset1/ctrl_test", id_resp)
-# print(r, s)

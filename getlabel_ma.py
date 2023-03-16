@@ -1,17 +1,3 @@
-"""
-x.resp <==> x_fail
-x.bmp <==> x-1.diag
-TEST PATH:
-./data/ctrl/ssl/1.resp
-./data/ctrl/ctrl.bench
-./pic/ctrl/1_resp/1.bmp
-./pic/ctrl/1_resp/all.bmp
-./report/ctrl/ssl/diagnosis_report/1_fail/0.diag
-./report/ctrl/ssl/diagnosis_report/1_fail/all.diag
-LABEL:
-resp/fail   pic     label
-x           y       z
-"""
 import os
 import re
 import argparse
@@ -19,7 +5,6 @@ import argparse
 
 
 def makelabel(chip, fault):
-    # root = "./report/" + chip + "/" + fault + "/diagnosis_report/"
     picroot = "./pic/" + chip + "/" + fault + "/"
     root = "../" + chip + "/" + fault + "/diagnosis_report/"
 
@@ -135,13 +120,6 @@ def analysis(lines):
                 continue
     return res
 
-# chips = ["ctrl", "x1"]
-# faults = ["and", "or", "fe", "dom", "ssl", "msl"]
-# for chip in chips:
-#     for fault in faults:
-#         makelabel(chip=chip, fault=fault)
-#         print("------------------{}-----------------".format(fault))
-#     print("-----------------------------")
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="get label mb")

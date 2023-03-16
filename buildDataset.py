@@ -67,9 +67,6 @@ def splitDataset(circuit, fault_types):
     trainset = allchips[:index]
     testset = allchips[index:]
 
-    # print(len(trainset))
-    # print(len(testset))
-    # print(testset)
     return trainset, testset
 
 
@@ -79,10 +76,7 @@ if __name__ == "__main__":
     parser.add_argument("--type", type=str, default=["and", "or", "fe", "dom", "ssl", "msl"], nargs="+", help="fault types")
     args = parser.parse_args()
     print(args)
-# chips = ["int2float", "dec", "priority", "sin", "ctrl", "cavlc", "i2c", "adder", "bar"]
-# chips = ["x1", "pair", "frg2", "i10", "des"]
-# chips = ["b15"]
-# faults = ["ssl", "msl", "and", "or", "fe", "dom"]
+
     chips = args.c
     faults = args.type
 
