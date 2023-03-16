@@ -170,9 +170,10 @@ def run(source, target):
     x_train_s = x_y_train.iloc[:, 0:-1]
     y_train_s = x_y_train.iloc[:, -1]
 
-    data_path = os.path.join("data/", target_circuit)
-    if not os.path.exists(data_path):
-        os.makedirs(data_path)
+    # 存source trainset的特征和标签
+    # data_path = os.path.join("data/", target_circuit)
+    # if not os.path.exists(data_path):
+    #     os.makedirs(data_path)
     # x_y_train.to_csv(f'{data_path}/{target_circuit}_train.csv', index=False)
 
     # target
