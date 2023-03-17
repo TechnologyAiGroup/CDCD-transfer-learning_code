@@ -85,7 +85,7 @@ def getPO(chip):
 def getRESP(chip, fault):
     # get test outputs from test patterns
     # path = "./data/" + chip + "/" + fault
-    path = "../" + chip + "/" + fault + "/fat-results/responses/" + chip + "/"
+    path = "../" + chip + "/" + fault + "/???-results/responses/" + chip + "/"
     checkfailpath = "../"+chip+"/"+fault+"/diagnosis_report/"
     fileid2content = {}
     checkline = {}
