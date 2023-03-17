@@ -179,11 +179,6 @@ if __name__ == "__main__":
             # checkline储存需要切分的行数
             print("runing...")
             r, checkline = getRESP(chip=chip, fault=fault)
-            # print(r)
-            # print("saving...")
-            # with open("./data/" + "{}.json".format(chip), "w") as f:
-            #     json.dump(checkline, f)
-            # f.close()
             print("generating...")
             generateBMP(fileid2content=r, chip=chip, fault=fault)
             print("------------------{}----------------------".format(fault))
