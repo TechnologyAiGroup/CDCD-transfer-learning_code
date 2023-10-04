@@ -1,3 +1,7 @@
+CDCD (CNN-based Data-Model Co-Design) is the method in the work, 
+"CNN-based Data-Model Co-Design for Efficient Test-termination Prediction",
+proposed in 2022 IEEE European Test Symposium (ETS).
+
 In this example, the chip name is fixed as "x1" and "pair".  
 We have generated datasets named "x1" and "pair".  
 
